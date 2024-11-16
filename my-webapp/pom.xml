@@ -41,8 +41,6 @@
     </plugins>
   </build>
 
-</project>
-
 <distributionManagement>
     <repository>
         <id>adikarthikgupta</id> <!-- The ID must match the one in your settings.xml -->
@@ -55,3 +53,4 @@
         </snapshots>
     </repository>
 </distributionManagement>
+</project>
