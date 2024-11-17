@@ -1,15 +1,8 @@
-<server>
-<id>adikarthikgupta</id>
-<username>adikarthikgupta</username>
-<password>K7FpQhzHCIFUEDONcD6ggrwJb4tgbdDOmHaiK9pJsg1neUb3vcTZJQQJ99AKACAAAAA8yzi4AAASAZDOnOsr</password>
-</server>
-</repository>
-<id>adikarthikgupta</id>
-<url>https://pkgs.dev.azure.com/adikarthikgupta/_packaging/adikarthikgupta/maven/v1</url>
-</releases>
-<enabled>true</enabled>
-</releases>
-<snapshots>
-<enabled>true</enabled>
-</snapshots>
-</repository>
+  <servers>
+    <server>
+      <id>adikarthikgupta</id>
+      <username>adikarthikgupta</username>
+      <password>K7FpQhzHCIFUEDONcD6ggrwJb4tgbdDOmHaiK9pJsg1neUb3vcTZJQQJ99AKACAAAAA8yzi4AAASAZDOnOsr</password>
+    </server>
+  </servers>
+</settings>
